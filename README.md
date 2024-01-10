@@ -6,7 +6,7 @@ Till now I have added 3 langauges which are (also I have added the links of reso
 
 1. [Python](https://youtu.be/XKHEtdqhLK8?si=3tTJmgYepKzbjagN)  ![python](https://github.com/devdutt6/language-tryouts/assets/69333160/f86bec3c-5520-472f-ab49-886699fa3537)
 2. [Rust](https://doc.rust-lang.org/stable/book)
-3. [TypeScript](https://youtu.be/30LWjhZzg50?si=u86mkFd8sCtlKCxl) (Not a language I know)
+3. [TypeScript](https://youtu.be/30LWjhZzg50?si=u86mkFd8sCtlKCxl) (Not a language, I know)
 
 But I also have learned few other langauges but have not added them in this repository which are
 
